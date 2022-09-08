@@ -1,0 +1,1 @@
+docker run -d -p 2222:8080 --name OnlineJudge onlinejudge
